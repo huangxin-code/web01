@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>尚硅谷</title>
+    <title>尚硅谷sssssssssssss</title>
   </head>
   <body>
   <h1 style="color: orange">尚硅谷</h1>
